@@ -1,5 +1,5 @@
 
-![Ufuk's github stats](https://github-readme-stats.vercel.app/api?username=ufukorhnn&show_icons=true&theme=radical)
+![Ufuk's github stats](https://github-readme-stats.vercel.app/api?username=ufukorhnn&show_icons=true&theme=merko)
 
 <h1 align="center">Hi 👋, I'm Ufuk ORHAN</h1>
 <h3 align="center">A passionate Back-End developer from Turkey</h3>
