@@ -8,7 +8,7 @@
 
 - ⚡ I’m currently working **Logsign**
 
-- 🌱 I’m currently learning **Python, SQLAlchemy, Flask**
+- 🌱 I’m currently learning **Python3, SQLAlchemy, Flask**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
